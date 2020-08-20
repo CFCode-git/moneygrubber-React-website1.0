@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moneygrubber-React-website1.0/static/css/main.8eef2a44.chunk.css",
+    "main.js": "/moneygrubber-React-website1.0/static/js/main.4e4a4123.chunk.js",
+    "main.js.map": "/moneygrubber-React-website1.0/static/js/main.4e4a4123.chunk.js.map",
+    "runtime-main.js": "/moneygrubber-React-website1.0/static/js/runtime-main.8df26a0d.js",
+    "runtime-main.js.map": "/moneygrubber-React-website1.0/static/js/runtime-main.8df26a0d.js.map",
+    "static/js/2.b51494c8.chunk.js": "/moneygrubber-React-website1.0/static/js/2.b51494c8.chunk.js",
+    "static/js/2.b51494c8.chunk.js.map": "/moneygrubber-React-website1.0/static/js/2.b51494c8.chunk.js.map",
+    "index.html": "/moneygrubber-React-website1.0/index.html",
+    "precache-manifest.d190529bfd632ed9b2ed410b11bbabdb.js": "/moneygrubber-React-website1.0/precache-manifest.d190529bfd632ed9b2ed410b11bbabdb.js",
+    "service-worker.js": "/moneygrubber-React-website1.0/service-worker.js",
+    "static/css/main.8eef2a44.chunk.css.map": "/moneygrubber-React-website1.0/static/css/main.8eef2a44.chunk.css.map",
+    "static/js/2.b51494c8.chunk.js.LICENSE.txt": "/moneygrubber-React-website1.0/static/js/2.b51494c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8df26a0d.js",
+    "static/js/2.b51494c8.chunk.js",
+    "static/css/main.8eef2a44.chunk.css",
+    "static/js/main.4e4a4123.chunk.js"
+  ]
+}
